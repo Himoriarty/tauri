@@ -7,7 +7,7 @@
           <path clip-rule="evenodd" d="M47.2426 24L24 47.2426L0.757355 24L24 0.757355L47.2426 24ZM12.2426 21H35.7574L24 9.24264L12.2426 21Z" fill="currentColor" fill-rule="evenodd"></path>
         </svg>
       </div>
-      <h1 class="text-slate-900 dark:text-white text-base font-bold tracking-tight hidden lg:block">InfraGuard AI</h1>
+      <h1 class="text-slate-900 dark:text-white text-base font-bold tracking-tight hidden lg:block">道路桥梁病害管理系统</h1>
     </div>
 
     <!-- Navigation (Capsule Style) -->
