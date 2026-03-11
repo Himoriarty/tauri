@@ -173,7 +173,7 @@ async function runAnalysis() {
     console.time("Model Loading");
     
     // We pass the string URL; ORT can fetch it smoothly now since COEP is gone.
-    session = await ort.InferenceSession.create('/models/yolov8_road_damage.onnx', {
+    session = await ort.InferenceSession.create('/models/yolo12s_RDD2022_best.onnx', {
       executionProviders: ['wasm'],
       graphOptimizationLevel: 'all'
     });
